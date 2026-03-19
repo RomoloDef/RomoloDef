@@ -1,44 +1,42 @@
-# Hi there! I'm Romolo 👋
+<h1 align="center">Hi there, I'm Romolo 👋</h1>
+<h3 align="center">Computer Science Student @ Sapienza University of Rome 🎓</h3>
 
-### 👨‍💻 About Me
-Sono uno studente di **Informatica** (Computer Science) presso la Sapienza Università di Roma.
-Appassionato di sviluppo software, mi piace trasformare idee in codice.
-
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<p align="center">
+  <i>Appassionato di sviluppo software: mi piace trasformare idee in codice.</i>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 👨‍💻 About Me
+- 🔭 Attualmente sto studiando **Informatica** alla Sapienza.
+- 🌱 Lavoro costantemente per migliorare le mie skill in **Software Development** e **Architetture Web**.
+- 💬 Chiedimi pure di: **Java, Python, Go o progetti universitari!**
+- 📫 Come contattarmi: [LinkedIn](https://www.linkedin.com/in/romolo-deffereria/) | [Email](mailto:romolo.deffereria04@gmail.com)
 
----
+## 🛠️ Tech Stack
 
-### 🌐 Connections
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuamail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Backend & Object-Oriented:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend:**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database, DevOps & Tools:**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomoloDef&show_icons=true&theme=radical&hide_border=true" alt="Le mie statistiche GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomoloDef&layout=compact&theme=radical&hide_border=true" alt="I miei linguaggi più usati" width="48%" />
+</div>
